@@ -1,10 +1,18 @@
-Open entrypage to start the webpage.!!!
-MY FIRST HTML BASIC WEBSITE 
-made using pure css and html
-[![Screenshot-2021-07-06-21-40-18.png](https://i.postimg.cc/W46sB2fk/Screenshot-2021-07-06-21-40-18.png)](https://postimg.cc/McHkR8w6)
 
+# MY FIRST HTML BASIC WEBSITE MADE USING PURE CSS AND HTML 
+_## Open entrypage to start the webpage.!!!_
 
-[![Screenshot-2021-07-06-21-40-18.png](https://i.postimg.cc/3JvQM8kx/Screenshot-2021-07-06-21-40-18.png)](https://postimg.cc/xcn4MSGw)
+## FIRST PAGE :-
+[![a.png](https://i.postimg.cc/xTDn1NDz/a.png)](https://postimg.cc/s1ctnX2j)
 
+## THIS IS MY CONTACT US PAGE:- 
+[![contact.png](https://i.postimg.cc/ZRd2GjqD/contact.png)](https://postimg.cc/qhp1nsy8)
 
-[![Screenshot-2021-07-06-21-40-18.png](https://i.postimg.cc/W46sB2fk/Screenshot-2021-07-06-21-40-18.png)](https://postimg.cc/McHkR8w6)
+## LOGIN PAGE :-
+[![login.png](https://i.postimg.cc/Ghxt0x82/login.png)](https://postimg.cc/xcqnMHPD)
+
+## GALLERY PAGE :-
+[![gallery-age.png](https://i.postimg.cc/xdytM7cQ/gallery-age.png)](https://postimg.cc/67qrNMrb)
+
+## Mseries page :-
+[![mseries.png](https://i.postimg.cc/hjRhWyrX/mseries.png)](https://postimg.cc/1gMyDKbS)
